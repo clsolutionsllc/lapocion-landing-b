@@ -1,0 +1,7 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local dev backups / revert snapshots (not needed in the repo)
+_backup-fullsize.html
+images/lux/_rainbow-backup/
