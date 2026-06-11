@@ -5,3 +5,6 @@ Thumbs.db
 # Local dev backups / revert snapshots (not needed in the repo)
 _backup-fullsize.html
 images/lux/_rainbow-backup/
+
+# Original PNGs kept locally as backup (WebP served)
+images/lux/_png-orig/
